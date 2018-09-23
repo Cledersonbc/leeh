@@ -1,0 +1,22 @@
+body {
+	background: #eee;
+}
+
+.memory-table {
+	margin: auto;
+	width: 60%;
+}
+
+.memory-table tr td img {
+	width: 100%;
+	height: 100%;
+}
+
+.memory-table tr td {
+	width: 16%;
+}
+
+.memory-table tr td img:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
