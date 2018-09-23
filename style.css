@@ -5,11 +5,11 @@ body {
 .memory-table {
 	margin: auto;
 	width: 60%;
+	max-height: 860px;
 }
 
 .memory-table tr td img {
 	width: 100%;
-	height: 100%;
 }
 
 .memory-table tr td {
